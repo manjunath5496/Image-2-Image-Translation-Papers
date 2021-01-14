@@ -184,91 +184,95 @@ Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(100).pdf" style="text-decoration:none;">From Design Draft to Real Attire: Unaligned Fashion Image Translation</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(101).pdf" style="text-decoration:none;">Identity-Preserving Realistic Talking Face Generation</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(102).pdf" style="text-decoration:none;">Identifying civilians killed by police with distantly supervised entity-event extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(102).pdf" style="text-decoration:none;">
+Learning to Transfer: Unsupervised Meta Domain Translation</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(103).pdf" style="text-decoration:none;">Exploiting Contextual Information via Dynamic Memory Network for Event Detection</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(103).pdf" style="text-decoration:none;">LEED: Label-Free Expression Editing via Disentanglement</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(104).pdf" style="text-decoration:none;">Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(104).pdf" style="text-decoration:none;">Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(105).pdf" style="text-decoration:none;">Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(105).pdf" style="text-decoration:none;">RF-GAN: A Light and Reconfigurable Network for Unpaired Image-to-Image Translation</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(106).pdf" style="text-decoration:none;">Few-Shot Unsupervised Image-to-Image Translation</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(107).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Relation and Event Extraction</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(108).pdf" style="text-decoration:none;">Event Detection with Trigger-Aware Lattice Neural Network</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(109).pdf" style="text-decoration:none;">Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(110).pdf" style="text-decoration:none;">Neural Cross-Lingual Event Detection with Minimal Parallel Resources </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(111).pdf" style="text-decoration:none;">Event Detection with Multi-Order Graph Convolution and Aggregated Attention</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(107).pdf" style="text-decoration:none;">GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(112).pdf" style="text-decoration:none;">HMEAE: Hierarchical Modular Event Argument Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(108).pdf" style="text-decoration:none;">Learning to Discover Cross-Domain Relations with Generative Adversarial Networks</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(113).pdf" style="text-decoration:none;">Entity, Relation, and Event Extraction with Contextualized Span Representations</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(109).pdf" style="text-decoration:none;">Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(114).pdf" style="text-decoration:none;">Financial Event Extraction Using Wikipedia-Based Weak Supervision</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(115).pdf" style="text-decoration:none;">An Overview of Event Extraction from Text</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(110).pdf" style="text-decoration:none;">Face Aging With Conditional Generative Adversarial Networks </a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(116).pdf" style="text-decoration:none;">Joint Entity and Event Extraction with Generative Adversarial Imitation Learning</a></li>   
-   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(117).pdf" style="text-decoration:none;">Bootstrapped Training of Event Extraction Classifiers</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(118).pdf" style="text-decoration:none;">Skip N-grams and Ranking Functions for Predicting Script Events</a></li>  
-   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(119).pdf" style="text-decoration:none;">Event detection based on open information extraction and ontology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(111).pdf" style="text-decoration:none;">Learning Fixed Points in Generative Adversarial Networks: From Image-to-Image Translation to Disease Detection and Localization</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(120).pdf" style="text-decoration:none;">Event Coreference Resolution using Mincut based Graph Clustering</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(121).pdf" style="text-decoration:none;">On Semantics and Deep Learning for Event Detection in Crisis Situations</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(112).pdf" style="text-decoration:none;">Everybody Dance Now</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(113).pdf" style="text-decoration:none;">UCTGAN: Diverse Image Inpainting based on Unsupervised Cross-Space Translation</a></li>  
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(122).pdf" style="text-decoration:none;">Chinese Event Extraction Based on Attention and Semantic Features: A Bidirectional Circular Neural Network</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(114).pdf" style="text-decoration:none;">Face-to-Parameter Translation for Game Character Auto-Creation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(115).pdf" style="text-decoration:none;">Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(116).pdf" style="text-decoration:none;">Homomorphic Latent Space Interpolation for Unpaired Image-to-image Translation</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(117).pdf" style="text-decoration:none;">TraVeLGAN: Image-to-image Translation by Transformation Vector Learning</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(118).pdf" style="text-decoration:none;">Co-Evolutionary Compression for Unpaired Image Translation</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(119).pdf" style="text-decoration:none;">TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(120).pdf" style="text-decoration:none;">Unsupervised Multi-Modal Image Registration via Geometry Preserving Image-to-Image Translation</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(121).pdf" style="text-decoration:none;">Generating Diverse Translation by Manipulating Multi-Head Attention</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(122).pdf" style="text-decoration:none;">Improving Style-Content Disentanglement in Image-to-Image Translation</a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(123).pdf" style="text-decoration:none;">A Unified Event Coreference Resolution by Integrating Multiple Resolvers</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(123).pdf" style="text-decoration:none;">Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(124).pdf" style="text-decoration:none;">Using Prediction from Sentential Scope to Build a Pseudo Co-Testing Learner for Event Extraction</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(124).pdf" style="text-decoration:none;">Supplementary Materials for:
+NeuralWireframe Renderer: Learning Wireframe to Image Translations</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(125).pdf" style="text-decoration:none;">Exploiting Document Level Information to Improve Event Detection via Recurrent Neural Networks</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(125).pdf" style="text-decoration:none;">Image to Image Translation for Domain Adaptation</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(126).pdf" style="text-decoration:none;">
-Semi-Automatic Financial Events Discovery Based on Lexico-Semantic Patterns</a></li> 
+Latent Filter Scaling for Multimodal Unsupervised Image-to-Image Translation</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(127).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(127).pdf" style="text-decoration:none;">Probabilistic Noise2Void:
+Unsupervised Content-Aware Denoising</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(128).pdf" style="text-decoration:none;">Temporal Ontology and Temporal Reference</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(128).pdf" style="text-decoration:none;">Reversible GANs for Memory-efficient Image-to-Image Translation</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(129).pdf" style="text-decoration:none;">Four thousand ships passed through the lock: Object-induced measure functions on events</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(129).pdf" style="text-decoration:none;">Go From the General to the Particular: Multi-Domain Translation with Domain Transformation Networks</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(130).pdf" style="text-decoration:none;">Event Coreference Resolution with Multi-Pass Sieves </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(130).pdf" style="text-decoration:none;">Exploring Generative Adversarial Networks for Image-to-Image Translation in STEM Simulation</a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(131).pdf" style="text-decoration:none;">Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(131).pdf" style="text-decoration:none;">Exploiting Time-Series Image-to-Image Translation to Expand the Range of Wildlife Habitat Analysis</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(132).pdf" style="text-decoration:none;">Event Detection via Gated Multilingual Attention Mechanism</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(132).pdf" style="text-decoration:none;">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(133).pdf" style="text-decoration:none;">A Survey of Textual Event Extraction from Social Networks</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(133).pdf" style="text-decoration:none;">SMIT: Stochastic Multi-Label Image-to-Image Translation</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(134).pdf" style="text-decoration:none;">Events, Processes, and States</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(134).pdf" style="text-decoration:none;">Explicitly disentangling image content from translation and rotation with spatial-VAE</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(135).pdf" style="text-decoration:none;">Chinese Event Coreference Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(135).pdf" style="text-decoration:none;">SEAN: Image Synthesis with Semantic Region-Adaptive Normalization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(136).pdf" style="text-decoration:none;">Joint Extraction of Events and Entities within a Document Context</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(137).pdf" style="text-decoration:none;">Joint Event Extraction via Recurrent Neural Networks</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(138).pdf" style="text-decoration:none;">Cross-media Event Extraction and Recommendation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(139).pdf" style="text-decoration:none;">Semi-Supervised Event Extraction with Paraphrase Clusters</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(140).pdf" style="text-decoration:none;">Adversarial Training forWeakly Supervised Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(136).pdf" style="text-decoration:none;">Transformation Consistency Regularization: A Semi-Supervised Paradigm for Image-to-Image Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(137).pdf" style="text-decoration:none;">Deep Sketch-guided Cartoon Video Synthesis</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(138).pdf" style="text-decoration:none;">Learning to Caricature via Semantic Shape Transform</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(139).pdf" style="text-decoration:none;">Semantically Adaptive Image-to-image Translation for Domain Adaptation of Semantic Segmentation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(140).pdf" style="text-decoration:none;">BalaGAN: Image Translation Between Imbalanced Domains via Cross-Modal Transfer</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(141).pdf" style="text-decoration:none;"> Biomedical Event Extraction Based on Knowledge-driven Tree-LSTM</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(142).pdf" style="text-decoration:none;">Multilingual Entity, Relation, Event and Human Value Extraction</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(143).pdf" style="text-decoration:none;">Learning to Select Important Context Words for Event Detection</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(144).pdf" style="text-decoration:none;">Nonparametric Bayesian Models for Unsupervised Event Coreference Resolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(145).pdf" style="text-decoration:none;">5W1H Information Extraction with CNN-Bidirectional LSTM</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(146).pdf" style="text-decoration:none;">An Improved Extraction Pattern Representation Model for Automatic IE Pattern Acquisition</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(141).pdf" style="text-decoration:none;"> Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(142).pdf" style="text-decoration:none;">Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(143).pdf" style="text-decoration:none;">Unpaired Image-to-Image Translation via Latent Energy Transport</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(144).pdf" style="text-decoration:none;">Cross-Domain Cascaded Deep Feature Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(145).pdf" style="text-decoration:none;">
+InstaGAN: Instance-aware Image-to-Image Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-2-Image-Translation-Papers/blob/main/gr(146).pdf" style="text-decoration:none;">VR Facial Animation via Multiview Image Translation</a></li>
                               
 </ul>
